@@ -1,7 +1,7 @@
 let http = require('http');
 let users = [
   { id: 1, name: '昌平66-77' },
-  { id: 2, name: '海淀66' },
+  { id: 2, name: '海淀66-77' },
 ]
 
 let server = http.createServer((req, res) => {
