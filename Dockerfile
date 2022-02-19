@@ -1,5 +1,5 @@
 FROM node
-LABEL name="cicd-back"
+LABEL name="vue-back"
 LABEL version="1.0"
 COPY . /app
 WORKDIR /app
